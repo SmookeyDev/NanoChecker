@@ -22,5 +22,5 @@ Recentemente houve um certo desafio num grupo e aconteceu simplesmente o seguint
 
 ## Contatos
 
-* [Telegram](https://t.me/xSmookeyBR)
-* [Twitter](https://twitter.com/xSmookeyBR) 
+* [Telegram](https://t.me/SmookeyDev)
+* [Twitter](https://twitter.com/SmookeyDev) 
